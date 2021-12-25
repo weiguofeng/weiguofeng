@@ -5,7 +5,6 @@
 
 
 <!-- 设置图标 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiguofeng&show_icons=true)
 
 <!-- 编辑主题 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiguofeng&show_icons=true&theme=radical)
