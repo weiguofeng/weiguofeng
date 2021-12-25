@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<!-- 设置图标 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiguofeng&show_icons=true)
+
+
 <!--
 **weiguofeng/weiguofeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 编辑主题 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiguofeng&show_icons=true&theme=radical)
 
