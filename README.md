@@ -11,18 +11,18 @@
 - 
 
 <!-- 设置语言卡片 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiguofeng)](https://github.com/anuraghazra/github-readme-stats)
+[![Top 语言](https://github-readme-stats.vercel.app/api/top-langs/?username=weiguofeng)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- 设置图标 -->
 
 <!-- 编辑主题 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiguofeng&show_icons=true&theme=radical)
+![数据统计](https://github-readme-stats.vercel.app/api?username=weiguofeng&show_icons=true&theme=radical)
 
 
 
 
-<!--
+<!--   这里是模版
 **weiguofeng/weiguofeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
