@@ -12,9 +12,14 @@
 
   ### My top 10 technologies
 
-|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/python.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/gcp.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/azure.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/c++.png)|
-|---|---|---|---|---|
-|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/android.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/docker.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/arduino.png)|
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/redis.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/macos.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/springboot.svg"></code>
 
   <!-- 设置语言卡片 -->
   [![Top 语言](https://github-readme-stats.vercel.app/api/top-langs/?username=weiguofeng)](https://github.com/anuraghazra/github-readme-stats)
