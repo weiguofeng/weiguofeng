@@ -1,8 +1,16 @@
 ### Hi there 👋
 
-<!-- 设置图标 -->
+<!-- 设置语言卡片 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiguofeng)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<!-- 设置图标 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiguofeng&show_icons=true)
+
+<!-- 编辑主题 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiguofeng&show_icons=true&theme=radical)
+
+
 
 
 <!--
@@ -19,7 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- 编辑主题 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiguofeng&show_icons=true&theme=radical)
 
