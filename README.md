@@ -12,9 +12,9 @@
 
   ### My top 10 technologies
 
-|![](https://github.com/weiguofeng/docs/blob/feature-1/docs/images/java.svg)|![](https://github.com/weiguofeng/docs/blob/feature-1/docs/images/java.svg)|![](https://github.com/weiguofeng/docs/blob/feature-1/docs/images/java.svg)|![](https://github.com/weiguofeng/docs/blob/feature-1/docs/images/java.svg)|![](https://github.com/weiguofeng/docs/blob/feature-1/docs/images/java.svg)|
+|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/python.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/gcp.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/azure.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/c++.png)|
 |---|---|---|---|---|
-|![](https://github.com/weiguofeng/docs/blob/feature-1/docs/images/java.svg)|![](https://github.com/weiguofeng/docs/blob/feature-1/docs/images/java.svg)|![](https://github.com/weiguofeng/docs/blob/feature-1/docs/images/java.svg)|![](https://github.com/weiguofeng/docs/blob/feature-1/docs/images/java.svg)|![](https://github.com/weiguofeng/docs/blob/feature-1/docs/images/java.svg)|
+|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/android.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/docker.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/arduino.png)|
 
   <!-- 设置语言卡片 -->
   [![Top 语言](https://github-readme-stats.vercel.app/api/top-langs/?username=weiguofeng)](https://github.com/anuraghazra/github-readme-stats)
